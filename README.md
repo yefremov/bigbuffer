@@ -1,5 +1,7 @@
 # BigBuffer
 
+## Installation
+
 ## License
 
 Copyright (c) 2013 Anton Yefremov  
