@@ -6,6 +6,7 @@
     "bignum": "0.6.0"
   },
   "devDependencies": {
-    "mocha": "1.9.0"
+    "mocha": "1.9.0",
+    "should": "1.2.2"
   }
 }
